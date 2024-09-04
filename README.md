@@ -14,7 +14,7 @@ By looking at the data automated workflows that we built, and comparing them to 
 We also created, on short notice, a dashboard using Tableau. Normally tables are often used in this branch as they are suitable for reporting whereas bar charts or maps make a more visual impression and show distribution. In our case among countries and customers. This dashboard relies heavily on tables because tax codes are essential to make sense out of the data. 
 
 
-!<"https://github.com/BorisNaydenov/Self-Skill-evaluation/blob/main/%D0%94%D0%B0%D1%81%D1%85%D0%B1%D0%BE%D0%B0%D1%80%D0%B4%20%D0%A2.png">
+![My Image]("https://github.com/BorisNaydenov/Self-Skill-evaluation/blob/main/%D0%94%D0%B0%D1%81%D1%85%D0%B1%D0%BE%D0%B0%D1%80%D0%B4%20%D0%A2.png")
 
 (Files can be shared on demand.)
 
