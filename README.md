@@ -1,7 +1,14 @@
 # Self-Skill-evaluation
-I am evaluating my skills based on the top 10 on-demand skills for 2025. (According to the World Economic Forum) 
-- Not just evaluate, but elevate. I will try to demonstrate how I am doing that and to show my quality of work to you. Cheers!
+
+Worked with a colleague for a week to clean and analyze data using Alteryx (a drag-and-drop data preparation software.) 
+
+In practice, tax professionals receive data from companies regarding their value-added tax.  In our case, data was received in Excel files and had to be united and cleaned using Alteryx. 
+
+By looking at the data automated workflows that we built, and comparing them to a company's last quarter tax return - we were able to discover mistakes and recover a higher amount of tax revenue. The created workflow also saves time in the future and is helpful in the case of an audit.
 
 
-[![Watch my skills self-evaluation](https://img.youtube.com/vi/)](https://youtu.be/7InM7vaz7-o?si=I_QEhsLniF4UXDCE)
+
+We also created, on short notice, a dashboard using Tableau. Normally tables are often used in this branch as they are suitable for reporting whereas bar charts or maps make a more visual impression and show distribution. In our case among countries and customers. This dashboard relies heavily on tables because tax codes are essential to make sense out of the data. 
+
+(Files can be shared on demand.)
 
