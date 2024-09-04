@@ -4,6 +4,9 @@ Worked with a colleague for a week to clean and analyze data using Alteryx (a dr
 
 In practice, tax professionals receive data from companies regarding their value-added tax.  In our case, data was received in Excel files and had to be united and cleaned using Alteryx. 
 
+![<img width="942" alt="Worklflow Alteryx" src="https://github.com/user-attachments/assets/4513a4fc-4e49-4b92-92d6-1d86fe3f91b8">](https://github.com/)
+
+
 By looking at the data automated workflows that we built, and comparing them to a company's last quarter tax return - we were able to discover mistakes and recover a higher amount of tax revenue. The created workflow also saves time in the future and is helpful in the case of an audit.
 
 
