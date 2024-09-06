@@ -15,7 +15,7 @@ In practice, tax professionals receive data from companies regarding their value
       
 We also created, on short notice, a dashboard using Tableau.   
 
-Tables are often used in tax/accounting  as they are suitable for reporting whereas bar charts or maps make a more visual impression and show distribution. In our case among countries and customers. This dashboard relies heavily on tables because tax codes are essential to make sense out of the data. 
+Tables are often used in tax and accounting (or auditing)  as they are suitable for reporting. Bar charts or maps make a more visual impression and show distribution. In our case - among countries and customers. This dashboard relies heavily on tables because tax codes are essential to make sense out of the data. 
 
 
 
